@@ -8,4 +8,6 @@ echo ' hallooo ef42ewf23qw wijziging 234';
 
 /* Gossip */
 
+/* En nog meer gossip */
+
 ?>
