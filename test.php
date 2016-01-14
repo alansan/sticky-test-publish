@@ -1,5 +1,5 @@
 <?php
 
-echo ' hallooo ef42ewf23qw wijziging 234567890';
+echo ' hallooo ef42ewf23qw wijziging 234';
 
 ?>
